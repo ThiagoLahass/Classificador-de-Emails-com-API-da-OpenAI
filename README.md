@@ -35,15 +35,15 @@ Este projeto é uma aplicação **Flask** que classifica emails como **"Produtiv
 
 ### 1️⃣ Clonar o Repositório
 ```sh
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
+git clone https://github.com/ThiagoLahass/Classificador-de-Emails-com-API-da-OpenAI
+cd Classificador-de-Emails-com-API-da-OpenAI
 ```
 
-### 2️⃣ Criar e Ativar um Ambiente Virtual (Recomendado)
+### 2️⃣ Criar e Ativar um Ambiente Virtual (Opcional)
 ```sh
-python -m venv venv  # Criar ambiente virtual
+python -m venv venv       # Criar ambiente virtual
 source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate  # Windows
+venv\Scripts\activate     # Windows
 ```
 
 ### 3️⃣ Instalar Dependências
