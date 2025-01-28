@@ -101,5 +101,5 @@ Acesse em **http://127.0.0.1:5000/** no navegador.
 
 ---
 
-## 📜 Licença
-Este projeto é distribuído sob a licença **MIT**. Sinta-se livre para utilizá-lo e melhorá-lo! 🎉
+## ⭐ Agradecimento
+Se você gostou deste projeto, por favor, deixe uma ⭐ no repositório! Isso motiva a continuar melhorando e trazendo mais aplicações legais. Obrigado pelo seu apoio! 🙌
